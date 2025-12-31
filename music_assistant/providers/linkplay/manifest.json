@@ -1,0 +1,10 @@
+{
+  "type": "player",
+  "domain": "linkplay",
+  "name": "LinkPlay Player Provider",
+  "description": "LinkPlay Player Provider for Music Assistant.",
+  "codeowners": ["@davidanthoff"],
+  "requirements": [],
+  "documentation": "https://music-assistant.io/player-support/demo/",
+  "mdns_discovery": ["_linkplay._tcp.local."]
+}
